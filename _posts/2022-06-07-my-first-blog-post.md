@@ -1,3 +1,7 @@
+---
+title: "Welcome to my blog"
+date: 2022-06-07
+---
 In this article, we’ll go over five main steps of my process for writing a post:
 
 Find a good topic and commit to it
