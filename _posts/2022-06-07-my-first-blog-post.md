@@ -1,6 +1,7 @@
 ---
 title: "Click here for my Blog"
 date: 2022-06-07
+avatar: /_posts/feather.png
 ---
 
 <img src="/_posts/feather.png" alt="Employee data" title="Employee Data title">
