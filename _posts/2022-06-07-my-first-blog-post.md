@@ -1,5 +1,5 @@
 ---
-title: "Clich here for my Blog"
+title: "Click here for my Blog"
 date: 2022-06-07
 image: "feather.png"
 ---
