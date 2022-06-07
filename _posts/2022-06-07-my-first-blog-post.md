@@ -1,6 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Clich here for my Blog"
 date: 2022-06-07
+image: "feather.png"
 ---
 In this article, we’ll go over five main steps of my process for writing a post:
 
