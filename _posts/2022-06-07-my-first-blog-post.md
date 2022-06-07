@@ -3,7 +3,7 @@ title: "Click here for my Blog"
 date: 2022-06-07
 ---
 
-<img src="/github-pages-with-jekyll/_posts/feather.png" alt="Employee data" title="Employee Data title">
+<img src="/_posts/feather.png" alt="Employee data" title="Employee Data title">
 
 
 In this article, we’ll go over five main steps of my process for writing a post:
