@@ -1,8 +1,10 @@
 ---
 title: "Click here for my Blog"
 date: 2022-06-07
-image: "feather.png"
 ---
+
+<img src="feather.png" alt="Feather">
+
 In this article, we’ll go over five main steps of my process for writing a post:
 
 Find a good topic and commit to it
