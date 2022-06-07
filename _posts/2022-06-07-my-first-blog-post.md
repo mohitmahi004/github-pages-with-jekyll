@@ -3,7 +3,7 @@ title: "Click here for my Blog"
 date: 2022-06-07
 ---
 
-<img src="feather.png" alt="Feather"/>
+<img src="feather.png" alt="Feather" width="500" height="600"/>
 
 In this article, we’ll go over five main steps of my process for writing a post:
 
